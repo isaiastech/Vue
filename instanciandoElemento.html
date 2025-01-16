@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./vue/vue.js"></script>
+    <title>Vue JS</title>
+</head>
+<body>
+    <h1>Instanciando Elemento</h1>
+    
+    <div id="app">
+        {{mensagem}}
+    </div>
+
+    <script>
+        options = {
+            el: '#app',
+            data:{ // variaveis / atributos retivos
+                mensagem: 'Primeiro template controlado pelo " VUE "'
+            }  // # para selecionar por id
+                        // . para selecionar por class
+        }
+
+      const vm = new Vue(options);  // vm=ViewModel
+
+
+    </script>
+</body>
+</html>
