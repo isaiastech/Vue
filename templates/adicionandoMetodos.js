@@ -1,7 +1,7 @@
 const metodos = {
     el:'#metodos',
     data: {
-        msg: 'testando',
+        msg: 'testando código',
     },
     methods: {
         somar() { //funcão convencional
