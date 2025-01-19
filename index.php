@@ -15,10 +15,10 @@
         <h1>Estudando Vue</h1><br>
         <hr class="border border-primary border-3 opacity-75">
         <div class="row">
-            <div class="col"><a class="btn btn-primary" href="instanciandoElemento" role="button">Instanciando
+            <div class="col"><a class="btn btn-primary" href="views/instanciandoElemento.php" role="button">Instanciando
                     Elemento</a></div>
-            <div class="col"><a class="btn btn-primary" href="metodos" role="button">Métodos</a></div>
-            <div class="col"><a class="btn btn-primary" href="instanciandoElemento" role="button">Instanciando
+            <div class="col"><a class="btn btn-primary" href="views/metodos.php" role="button">Métodos</a></div>
+            <div class="col"><a class="btn btn-primary" href="views/instanciandoElemento.php" role="button">Instanciando
                     Elemento</a></div>
         </div>
 
