@@ -1,7 +1,10 @@
 options = {
     el: '#app',
     data: { // variaveis / atributos retivos
-        mensagem: 'Primeiro template controlado pelo " VUE "',
+        mensagem: ['Primeiro template controlado pelo VUE',
+                    'Template controlado: ',
+                ],
+
         valorTotal: 150.47,
         logado: false,
         hobbies: [
