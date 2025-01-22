@@ -18,8 +18,9 @@
             <div class="col"><a class="btn btn-primary" href="views/instanciandoElemento.php" role="button">Instanciando
                     Elemento</a></div>
             <div class="col"><a class="btn btn-primary" href="views/metodos.php" role="button">Métodos</a></div>
-            <div class="col"><a class="btn btn-primary" href="views/instanciandoElemento.php" role="button">Instanciando
-                    Elemento</a></div>
+            <div class="col"><a class="btn btn-primary" href="views/diretiva-vbind.php" role="button">Diretiva V-bind</a></div>
+            <div class="col"><a class="btn btn-primary" href="views/utilizandoDataBinding.php" role="button">Data Bind</a></div>
+            <div class="col"><a class="btn btn-primary" href="views/metodos.php" role="button">Metodos</a></div>
         </div>
 
         <hr class="border border-danger border-2 opacity-50">
