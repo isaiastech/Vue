@@ -38,7 +38,7 @@
 		<nav id="menu">
 			<h2>Menu</h2>
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li><a href="generic.html">Ipsum veroeros</a></li>
 				<li><a href="generic.html">Tempus etiam</a></li>
 				<li><a href="generic.html">Consequat dolor</a></li>
@@ -60,7 +60,7 @@
 						<a href="views/instanciandoElemento.php">
 							<h2>Instanciando Elemento</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Instanciando Elemento.</p>
 							</div>
 						</a>
 					</article>
@@ -68,10 +68,10 @@
 						<span class="image">
 							<img src="images/pic02.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Lorem</h2>
+						<a href="views/metodos.php">
+							<h2>Métodos</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Métodos</p>
 							</div>
 						</a>
 					</article>
@@ -79,10 +79,10 @@
 						<span class="image">
 							<img src="images/pic03.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Feugiat</h2>
+						<a href="views/diretiva-vbind.php">
+							<h2>Diretiva V-bind</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Diretiva V-bind</p>
 							</div>
 						</a>
 					</article>
@@ -90,10 +90,10 @@
 						<span class="image">
 							<img src="images/pic04.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Tempus</h2>
+						<a href="views/diretivaV-On.php">
+							<h2>Diretiva V-ON</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Diretiva V-ON</p>
 							</div>
 						</a>
 					</article>
@@ -101,10 +101,10 @@
 						<span class="image">
 							<img src="images/pic05.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Aliquam</h2>
+						<a href="views/utilizandoDataBinding.php">
+							<h2>Data Bind</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Data Bind .</p>
 							</div>
 						</a>
 					</article>
@@ -112,10 +112,10 @@
 						<span class="image">
 							<img src="images/pic06.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Veroeros</h2>
+						<a href="views/handsOn.php">
+							<h2>Hands ON</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Hands ON.</p>
 							</div>
 						</a>
 					</article>
@@ -123,10 +123,10 @@
 						<span class="image">
 							<img src="images/pic07.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Ipsum</h2>
+						<a href="views/modificadores.php">
+							<h2>Modificadores</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Modificadores.</p>
 							</div>
 						</a>
 					</article>
@@ -134,10 +134,10 @@
 						<span class="image">
 							<img src="images/pic08.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Dolor</h2>
+						<a href="views/recuperandoAtributos.php">
+							<h2>Recuperando Atributos</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Recuperando Atributos </p>
 							</div>
 						</a>
 					</article>
