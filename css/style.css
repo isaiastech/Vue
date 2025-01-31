@@ -1,3 +1,6 @@
+:root {
+  --vermelho: #FF0000;
+}
 .cores{
     color: #8A2BE2; 
     font-size: 25px;
@@ -31,4 +34,9 @@
   }
   .vermelho{
     background-color: red;
+    
+  }
+
+  .paragrafo{
+    color:var(--vermelho);
   }
