@@ -145,8 +145,8 @@
 						<span class="image">
 							<img src="images/pic09.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Nullam</h2>
+						<a href="views/diretivaV-if.php">
+							<h2>diretivaV-if</h2>
 							<div class="content">
 								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
 							</div>
