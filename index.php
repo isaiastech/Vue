@@ -148,7 +148,10 @@
 						<a href="views/diretivaV-if.php">
 							<h2>diretivaV-if</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>A diretiva v-if no Vue.js é usada para renderizar elementos condicionalmente. Quando a expressão associada a v-if é false, 
+									o elemento não é apenas ocultado, mas completamente removido do DOM. 
+									Se a expressão for true, o Vue adiciona o elemento ao DOM.
+								</p>
 							</div>
 						</a>
 					</article>
@@ -156,10 +159,12 @@
 						<span class="image">
 							<img src="images/pic10.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Ultricies</h2>
+						<a href="views/diretivaV-show.php">
+							<h2>diretivaV-show</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>A diretiva v-show no Vue.js é usada para mostrar ou ocultar um elemento com base em uma expressão booleana. 
+									Diferente do v-if, que adiciona ou remove o elemento do DOM, o v-show 
+									apenas altera o estilo display do elemento..</p>
 							</div>
 						</a>
 					</article>
