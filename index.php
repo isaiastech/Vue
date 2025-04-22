@@ -172,10 +172,10 @@
 						<span class="image">
 							<img src="images/pic11.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Dictum</h2>
+						<a href="views/injetandoHtml.php">
+							<h2>Diretiva V-Html</h2>
 							<div class="content">
-								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								<p>Injetando elementos HTML</p>
 							</div>
 						</a>
 					</article>
@@ -183,8 +183,9 @@
 						<span class="image">
 							<img src="images/pic12.jpg" alt="" />
 						</span>
-						<a href="generic.html">
-							<h2>Pretium</h2>
+						<a href="views/diretivaVOnce.php
+">
+							<h2>Diretiva-v once</h2>
 							<div class="content">
 								<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
 							</div>

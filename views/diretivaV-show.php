@@ -32,7 +32,12 @@
                 <p @mouseover="exibirTextoAjuda = true" @mouseout= "exibirTextoAjuda = false">Exemplo tooltip</p>
                 <div v-show="exibirTextoAjuda">
                     <h3>Título texto ajuda</h3>
-                    <p>Contendo texto ajuda</p>
+                    <p>Conteúdo texto ajuda</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur modi eos in vero accusamus, nemo recusandae exercitationem? Sapiente, tempora iusto, fugiat, commodi labore amet et architecto quas accusantium eius sint.
+                    Sunt quos expedita nostrum? Quas, dicta illum. Molestias culpa velit obcaecati corporis? Amet officia, sunt repellendus, cum ea animi quia itaque laboriosam nemo laudantium tempore voluptatem ad doloribus ab neque!
+                    Obcaecati, dolor! Rerum est atque voluptates porro optio similique fuga recusandae doloribus dolore ex explicabo commodi consequuntur suscipit, veritatis nemo nihil unde nisi voluptatibus labore impedit ipsum, nostrum architecto! Autem?
+                    Molestias vero aut, deserunt rem quo voluptates adipisci sunt at ut neque eos modi obcaecati nostrum fugiat nemo quidem a asperiores? Quaerat, voluptates cumque aspernatur autem minus iure quod assumenda!
+                    Similique iusto maiores earum ab asperiores, quas, laudantium ea repellendus obcaecati molestias eligendi nesciunt nulla ullam deserunt assumenda, fuga nihil voluptatem totam tempore rem recusandae! Quos obcaecati voluptas hic ipsa.</p>
                 </div>
 
              </div>
